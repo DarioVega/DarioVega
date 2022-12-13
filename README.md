@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Java or Python Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sergiodariovega/
-- ⚡ Fun: I enjoy playing guitar
+- ⚡ Fun: I enjoy playing the guitar and reading some books
 
 
 

@@ -1,33 +1,24 @@
 ### Hi there 👋
 
-<!--
-**DarioVega/DarioVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelance developer
+- 🌱 I’m currently learning Spring Boot
+- 👯 I’m looking to collaborate on Java or Python Projects
+- 📫 How to reach me: sergiodariovega@gmail.com
+- ⚡ Fun: I enjoy playing guitar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'DarioVega';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'Sergio Darío Vega';
+  title    = 'Fullstack Developer';
+  location = 'Ciudad Autónoma de Buenos Aires, Argentina';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['Java', 'Python', 'PHP', 'Javascript'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['Spring Boot','Angular', 'React', 'Vue'];
 }
 ```

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a fullstack freelance developer
-- 🌱 I’m currently learning Spring Boot
-- 👯 I’m looking to collaborate on Java or Python Projects
+- 🌱 I’m currently studying programming in UTN
+- 👯 I’m looking to collaborate on Java (Spring/Angular) or Python Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sergiodariovega/
 - ⚡ Fun: I enjoy playing the guitar and reading some books
 

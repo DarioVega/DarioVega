@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a fullstack freelance developer
+- 🔭 I’m currently working at Close-up International as a Java Developer
 - 🌱 I’m currently studying programming in UTN, Testing in Argentina Programa and Django in Codo a Codo
 - 👯 I’m looking to collaborate on Java (Spring/Angular) or Python Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sergiodariovega/

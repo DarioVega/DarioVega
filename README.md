@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Close-up International as a Java Developer
-- 🌱 I’m currently studying programming in UTN, Testing in Argentina Programa and Django in Codo a Codo
-- 👯 I’m looking to collaborate on Java (Spring/Angular) or Python Projects
+- 🌱 I’m currently studying programming in UTN, Node/Express in Santex
+- 👯 I’m looking to collaborate on Java (Spring/Angular) or Python(Django) Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sergiodariovega/
 - ⚡ Fun: I enjoy playing the guitar and reading some books
 
@@ -21,6 +21,6 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['Java', 'Python', 'PHP', 'Javascript'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Spring','Angular', 'React', 'Vue'];
+  frameworks = ['Spring', 'Django', 'Angular', 'React', 'Vue'];
 }
 ```
